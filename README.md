@@ -22,4 +22,4 @@ https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 3. dataset classification
 
 ### Result
-`epoch`=10;`lr`=0.01;`loss`:18.778;`test_acc`:0.49
+`epoch`=10;`lr`=0.01;`loss`:79.386;`test_acc`:0.52
